@@ -1,3 +1,3 @@
 ## This project aims to enhance video calls with dynamic virtual backgrounds
 
-Ongoing updates and improvements
+lease refer to the report for detailed implementation information. Thank you!
